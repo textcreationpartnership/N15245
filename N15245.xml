@@ -110,8 +110,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:019349_0000_0FAB45B4F0C7F210"/>
-            <pb facs="tcp:019349_0001_0FAB45B5B8107678" rendition="simple:additions"/>
+            <pb facs="unknown:019349_0000_0FAB45B4F0C7F210"/>
+            <pb facs="unknown:019349_0001_0FAB45B5B8107678"
+                rendition="simple:additions"/>
             <p>THE ARTICLES OF CONFEDERATION; <hi>THE</hi> Declaration of Rights; THE Conſtitution of this Commonwealth, AND THE ARTICLES of the DEFINITIVE TREATY BETWEEN <hi>GREAT-BRITAIN</hi> and the <hi>UNITED STATES</hi> of <hi>AMERICA.</hi>
             </p>
             <p>
@@ -119,7 +120,7 @@
             <p>RICHMOND: PRINTED BY DIXON AND HOLT.</p>
          </div>
          <div type="resolution">
-            <pb facs="tcp:019349_0002_0FAB45B679596968"/>
+            <pb facs="unknown:019349_0002_0FAB45B679596968"/>
             <head>IN THE HOUSE OF DELEGATES,</head>
             <opener>
                <dateline>
@@ -158,7 +159,7 @@
       </front>
       <body>
          <div type="articles_of_confederation">
-            <pb facs="tcp:019349_0003_0FAB45B72F54BEB8"/>
+            <pb facs="unknown:019349_0003_0FAB45B72F54BEB8"/>
             <head>
                <hi>ARTICLES OF CONFEDERATION AND PERPETUAL UNION, BETWEEN</hi> The States of <hi>New-Hampſhire, Maſſachuſetts-Bay, Rhode Iſland</hi> and <hi>Providence Plantations, Connecticut, New-York, New-Jerſey, Pennſylvania, Delaware, Maryland, Virginia, North-Carolina, South-Carolina</hi> and <hi>Georgia.</hi>
             </head>
@@ -176,7 +177,7 @@
                   <desc>•</desc>
                </gap>e fled, be delivered up, and removed to the ſtate having juriſdiction of his offence.</p>
             <p>
-               <pb n="4" facs="tcp:019349_0004_0FAB45B862451DF8"/>Full faith and credit ſhall be given in each of theſe ſtates to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="4" facs="unknown:019349_0004_0FAB45B862451DF8"/>Full faith and credit ſhall be given in each of theſe ſtates to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> record, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -196,7 +197,7 @@
             <p>No two or more ſtates ſhall enter into any treaty, confederation, or alliance whatever, between them, without the conſent of the United States in Congreſs aſſembled, ſpecifying accurately the purpoſes for which the ſame is to be entered into, and how long it ſhall continue.</p>
             <p>No ſtate ſhall lay any impoſts of duties which may interfere with any ſtipulations in treaties entered into by the United States, in Congreſs aſſembled, with any King, Prince, or ſtate, in purſuance of any treaties already propoſed by Congreſs to the Courts of France and Spain.</p>
             <p>No veſſels of war ſhall be kept up in time of peace by any ſtate, except ſuch number only as ſhall be deemed neceſſary by the United States, in Congreſs aſſembled, for the defence of ſuch ſtate, or its
-<pb n="5" facs="tcp:019349_0005_0FAB45BA6F6A2348"/>
+<pb n="5" facs="unknown:019349_0005_0FAB45BA6F6A2348"/>
 trade; nor ſhall any body of forces be kept up by any ſtate in time of peace, except ſuch number only, as, in the judgment of the United States, in Congreſs aſſembled, ſhall be deemed requiſite to garriſon the forts neceſſary for the defence of ſuch ſtate; but every ſtate ſhall always keep up a well regulated and diſciplined militia, ſufficiently armed and accounted, and ſhall provide and conſtantly have ready for uſe, in public ſtores, a due number of field pieces and tents, and a proper quantity of arms, ammunition, and camp equipage.</p>
             <p>No ſtate ſhall engage in any war without the conſent of the United States in Congreſs aſſembled, unleſs ſuch ſtate be actually invaded by enemies, or ſhall have received certain advice of a reſo<g ref="char:EOLhyphen"/>lution being formed by ſome nation of Indians to invade ſuch ſtate, and the danger is ſo eminent as not to admit of a delay, till the United States, in Congreſs aſſembled, can be conſulted. Nor ſhall any ſtate grant commiſſions to any ſhips or veſſels of war, nor letters of ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -204,7 +205,7 @@ trade; nor ſhall any body of forces be kept up by any ſtate in time of peace, 
             <p>ART. VII. When land forces are raiſed by any ſtate for the common defence, all officers, of or under the rank of Colonel, ſhall be appointed by the Legiſlature of each ſtate reſpectively by whom ſuch forces ſhall be raiſed, or in ſuch manner as ſuch ſtate ſhall direct, and all vacancies ſhall be filled up by the ſtate which firſt made the appointment.</p>
             <p>ART. VIII. All charges of war, and all other expences that ſhall be incurred for the common defence or general welfare, and allowed by the United States in Congreſs aſſembled, ſhall be de<g ref="char:EOLhyphen"/>frayed out of a common treaſury, which ſhall be ſupplied by the ſeveral ſtates, in proportion to the value of all land within each ſtate, granted to or ſurveyed for any perſon, as ſuch land and the buildings and improvements thereon ſhall be eſtimated, according to ſuch mode as the United States in Congreſs aſſembled, ſhall from time to time direct and appoint. The taxes of paying that proportion ſhall be laid and levied by the authority and direction of the Legiſlatures of the ſeveral ſtates within the time agreed upon by the United States in Congreſs aſſembled.</p>
             <p>ART. IX. The United States in Congreſs aſſembled, ſhall have the ſole and excluſive right and power of determining on peace and war, except in the caſes mentioned in the ſixth article; of ſending and receiving ambaſſadors; entering into treaties and alliances, pro<g ref="char:EOLhyphen"/>vided that no treaty of commerce ſhall be made, whereby the Le<g ref="char:EOLhyphen"/>giſlative
-<pb n="6" facs="tcp:019349_0006_0FAB45BB00958D28"/>
+<pb n="6" facs="unknown:019349_0006_0FAB45BB00958D28"/>
 power of the reſpective ſtates ſhall be reſtrained from im<g ref="char:EOLhyphen"/>poſing ſuch impoſts and duties on foreigners, as their own people are ſubjected to, or from prohibiting be exportation or importation of any ſpecies of goods or commodities whatſoever; of eſtabliſhing <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> for d<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -251,7 +252,7 @@ power of the reſpective ſtates ſhall be reſtrained from im<g ref="char:EOLhy
                </gap> Congreſs ſhall direct, ſhall in the preſence of Congreſs, be drawn out by lot, and the perſons whoſe names ſhall be ſo drawn, or any ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e of them, ſhall be commiſſioners, or judges, to hear and finally determine the controverſy, ſo always as a major part of the judges who ſhall hear the cauſe ſhall agree in the determination. And if either party ſhall neglect to attend at the day appointed, without ſhewing reaſons which Congreſs ſhall judge ſufficient, or being preſent ſhall refuſe to ſtrike, the Congreſs ſhall proceed to nominate three perſons out of each ſtate, and the ſecretary of Congreſs ſhall ſtrike in behaif of ſuch party abſent or refuſing; and the judgment and ſentence of the court to be appointed, in the manner before preſcribed, ſhall be final and concluſive. And if any of the par<g ref="char:EOLhyphen"/>ties ſhall refuſe to ſubmit to the authority of ſuch court, or to appear or defend their claim or cauſe, the court ſhall nevertheleſs proceed to pronounce ſentence, or judgment, which ſhall in like manner be final and deciſive, the judgment or ſentence and other proceedings being in either caſe tranſmitted to Congreſs, and lodged among the acts of Congreſs, for the ſecurity of the parties
-<pb n="7" facs="tcp:019349_0007_0FAB45BBB31145D0"/>
+<pb n="7" facs="unknown:019349_0007_0FAB45BBB31145D0"/>
 concerned. Provided, that every commiſſioner, before he ſits in judgment, ſhall take an oath, to be adminiſtered by one of the judges of the ſupreme or ſuperior court of the ſtate where the cauſe ſhall be tried, "<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> well and truly to hear and determine the matter in queſtion, according to the beſt of his judgment, without favor, affection, or hope of reward." Provided alſo, that no ſtate ſhall be deprived of territory for the benefit of the United States.</p>
@@ -282,7 +283,7 @@ concerned. Provided, that every commiſſioner, before he ſits in judgment, ſh
                </gap>ctive ſtates, an account of the ſums of money ſo borrowed or emitted; to build and equip a naval; to agree upon the number of land forces, and to make requiſition from each ſtate for its qu<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>, in proportion to the number of while inhabitants in ſuch ſtate,
-<pb n="8" facs="tcp:019349_0008_0FAB45BC71B39E18"/>
+<pb n="8" facs="unknown:019349_0008_0FAB45BC71B39E18"/>
 which requiſition ſhall be binding, and thereupon the Legiſlature of each ſtate ſhall appoint the regimental officers, raiſe the men, and cloath, arm, and equip them in a ſoldier like manner, at the expence of the United States, and the officers and men ſo cloathed, armed, and equipped, ſhall march to the place appointed, and within the time agreed on by the United States in Congreſs aſſembled; but if the United States in Congreſs aſſembled ſhall, on conſideration of circumſtances, judge proper that any ſtate ſhould not raiſe men, or ſhould raiſe a ſmaller number than its quota, and that any other ſtate ſhould raiſe a greater number of men than the quota<g ref="char:punc">▪</g> thereof, ſuch extra number ſhall be raiſed, officered, cloathed, armed, and equipped in the ſame manner as the quota of ſuch ſtate, unleſs the Legiſlature of ſuch ſtate ſhall judge that ſuch extra number cannot be ſafely ſpared out of the ſame, in which caſe they ſhall raiſe, officer, cloath, arm, and equip, as many of ſuch extra number as they judge can be ſafely ſpared, And the officers and men ſo cloathed, armed, and equipped, ſhall march to the place appointed, and within the time agreed on by the United States in Congreſs aſſembled.</p>
             <p>The United States in Congreſs aſſembled ſhall never engage in a war, nor grant letters of marque and rep<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -298,7 +299,7 @@ which requiſition ſhall be binding, and thereupon the Legiſlature of each ſt
                   <desc>•</desc>
                </gap>
                <g ref="char:EOLhyphen"/>dient
-<pb n="9" facs="tcp:019349_0009_0FAB45BD33248F50"/>
+<pb n="9" facs="unknown:019349_0009_0FAB45BD33248F50"/>
 to veſt them with; provided that no power be delegated to the ſaid committee, for the exerciſe of which, by the articles of con<g ref="char:EOLhyphen"/>federation, the voice of nine ſtates, in the Congreſs of the United States aſſembled, is requiſite.</p>
             <p>ART. XI. Canada acceding to this confederation, and joining in the meaſures of the United States ſhall be admitted in o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -332,7 +333,7 @@ to veſt them with; provided that no power be delegated to the ſaid committee, 
             <postscript>
                <p>The aforeſaid articles of confederation were finally ratified on the firſt day of March 1781; the ſtate of Maryland having<g ref="char:punc">▪</g> by their members in Congreſs, on that day acceded thereto, and com<g ref="char:EOLhyphen"/>pleted the ſame.</p>
                <list>
-                  <pb n="10" facs="tcp:019349_0010_0FAB45BDF2405970"/>
+                  <pb n="10" facs="unknown:019349_0010_0FAB45BDF2405970"/>
                   <item>NEW-HAMPSHIRE,
 <list>
                         <item>Joſiah Bartlett,</item>
@@ -447,7 +448,7 @@ to veſt them with; provided that no power be delegated to the ſaid committee, 
                      </list>
                   </item>
                   <item>
-                     <pb n="11" facs="tcp:019349_0011_0FAB45BEB29C96B8"/>SOUTH-CAROLINA,
+                     <pb n="11" facs="unknown:019349_0011_0FAB45BEB29C96B8"/>SOUTH-CAROLINA,
 <list>
                         <item>Henry Lauren<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
@@ -478,7 +479,7 @@ to veſt them with; provided that no power be delegated to the ſaid committee, 
             </postscript>
          </div>
          <div type="declaration_of_rights">
-            <pb n="12" facs="tcp:019349_0012_0FAB45BF704CBF00"/>
+            <pb n="12" facs="unknown:019349_0012_0FAB45BF704CBF00"/>
             <head>THE DECLARATION OF RIGHTS Made by the Repreſentatives of the good people of Virginia, aſſembled in full and free Convention; which rights do pertain to them, and their poſterity, as the baſis and foundation of Government.</head>
             <p>FIRST, THAT all men are by nature equally free and in<g ref="char:EOLhyphen"/>dependent, and have certain inherent rights, of which, when they enter into a ſtate of ſociety, they cannot, by any c<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -492,7 +493,7 @@ to veſt them with; provided that no power be delegated to the ſaid committee, 
             <p n="4">4th. That no man, or ſet of men, are intitled to excluſive or ſeparate emoluments or privileges from the community, but in con<g ref="char:EOLhyphen"/>ſideration of public ſervices; which, not being deſcendible, neither ought the offices of magiſtrate, legiſlature, or judge, to be the hereditary.</p>
             <p n="5">5th. That the Legiſlative and Executive powers of the ſtate ſhould be ſeparate and diſtinct from the judicary; and that the members of the two firſt may be reſtrained from oppreſſion, by feeling and participating the burthens of the people, they ſhould at fixed periods, be reduced to a private ſtation, return into that body from which they were originally taken, and the vacancies be ſup<g ref="char:EOLhyphen"/>plied by frequent, certain, and regular elections, in which all, or any part of the former members, to be again eligible, or ineligible, as the laws ſhall direct.</p>
             <p n="6">
-               <pb n="13" facs="tcp:019349_0013_0FAB45C116FD6BF8"/>6th. That elections of members to ſerve as repreſentatives of the people, in Aſſembly, ought to be free, and that all men, having ſufficient evidence of permanent common intereſt with, and attach<g ref="char:EOLhyphen"/>ment to, the community, have the right of ſuffrage, and cannot be taxed or deprived of their property for public uſes without their own conſent, or that of their repreſentatives ſo elected, nor bound by any law to which they have not, in like manner, aſſented for the pub<g ref="char:EOLhyphen"/>lic good.</p>
+               <pb n="13" facs="unknown:019349_0013_0FAB45C116FD6BF8"/>6th. That elections of members to ſerve as repreſentatives of the people, in Aſſembly, ought to be free, and that all men, having ſufficient evidence of permanent common intereſt with, and attach<g ref="char:EOLhyphen"/>ment to, the community, have the right of ſuffrage, and cannot be taxed or deprived of their property for public uſes without their own conſent, or that of their repreſentatives ſo elected, nor bound by any law to which they have not, in like manner, aſſented for the pub<g ref="char:EOLhyphen"/>lic good.</p>
             <p n="7">7th. That all power of ſuſpending law, or the execution of laws, by any authority without conſent of the repreſentatives of the people, is injurious to their rights, and ought not to be exerciſed.</p>
             <p n="8">8th. That in all capital or criminal proſecutions, a man hath a right to demand the cauſe and nature of his accuſation, to be confronted with the accuſers and witneſſes, to call for evidence in his favor, and to a ſpeedy trial by an impartial jury of his vicinage, whithout whoſe unanimous conſent he cannot be found guilty, nor can he be compelled to give evidence againſt himſelf; that no man be deprived of his liberty, except by the law of the land, or the judgment of his peers.</p>
             <p n="9">9th. That exceſſive bail ought not to be required, nor exceſſive fines impoſed, nor cruel unuſual puniſhments inflicted.</p>
@@ -510,10 +511,10 @@ to veſt them with; provided that no power be delegated to the ſaid committee, 
                   <desc>•</desc>
                </gap> adherence to juſtice, mo<g ref="char:EOLunhyphen"/>deration, temperance, frugality, and virtue, and by frequent recur<g ref="char:EOLhyphen"/>rence to fundimental principles.</p>
             <p n="16">
-               <pb n="14" facs="tcp:019349_0014_0FAB45C1B39667D8"/>16th. That religion, or the duty which we owe to our CREA<g ref="char:EOLhyphen"/>TOR, and the manner of diſcharging it, can be directed only by reaſon and conviction, not by force or violence, and therefore all men are equally entitled to the free exerciſe of religion, according to the dictates of conſcience; and that it is the mutual duty of all to practice Chriſtian forbearance, love, and charity, towards each other.</p>
+               <pb n="14" facs="unknown:019349_0014_0FAB45C1B39667D8"/>16th. That religion, or the duty which we owe to our CREA<g ref="char:EOLhyphen"/>TOR, and the manner of diſcharging it, can be directed only by reaſon and conviction, not by force or violence, and therefore all men are equally entitled to the free exerciſe of religion, according to the dictates of conſcience; and that it is the mutual duty of all to practice Chriſtian forbearance, love, and charity, towards each other.</p>
          </div>
          <div type="constitution">
-            <pb n="15" facs="tcp:019349_0015_0FAB45C2716A40D8"/>
+            <pb n="15" facs="unknown:019349_0015_0FAB45C2716A40D8"/>
             <head>THE CONSTITUTION OR FORM OF GOVERNMENT Agreed to and reſolved upon at a general Convention o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> the Delegates and Repreſentatives of the ſeveral Counties and Corporations of Virginia, held at the Capital in the City of Williamſburg, on Monday the ſixth day of May, in the year 1776.</head>
@@ -530,7 +531,7 @@ to veſt them with; provided that no power be delegated to the ſaid committee, 
                   <desc>•</desc>
                </gap>ffecting to render the military independent of, and ſuperior to, the civil power:</p>
             <p>
-               <pb n="16" facs="tcp:019349_0016_0FAB45C32F674CB8"/>By combining with others to ſubject us to a foreign juriſdiction giving his aſſent to their pretended acts of legiſlation:</p>
+               <pb n="16" facs="unknown:019349_0016_0FAB45C32F674CB8"/>By combining with others to ſubject us to a foreign juriſdiction giving his aſſent to their pretended acts of legiſlation:</p>
             <p>For quartering large bodies of armed troops among us:</p>
             <p>For cutting off our trade with all parts of the world:</p>
             <p>For impoſing taxes on us without our conſent:</p>
@@ -551,7 +552,7 @@ to veſt them with; provided that no power be delegated to the ſaid committee, 
             <p>The legiſlative, executive, and judiciary departments, ſhall be ſeparate and diſtinct, ſo that neither exerciſe the powers properly belonging to the other; nor ſhall any perſon exerciſe the powers of more than one of them at the ſame time, except that the juſtices of the county courts ſhall be eligible to either Houſe of Aſſembly.</p>
             <p>The legiſlative ſhall be formed of two diſtinct branches, who, together, ſhall be a complete legiſlature. They ſhall meet once or oftener, every year, and ſhall be called the GENERAL ASSEM<g ref="char:EOLhyphen"/>BLY <hi>of</hi> VIRGINIA.</p>
             <p>One of theſe ſhall be called the HOUSE <hi>of</hi> DELEGATES, and
-<pb n="17" facs="tcp:019349_0017_0FAB45C3F06C7048"/>
+<pb n="17" facs="unknown:019349_0017_0FAB45C3F06C7048"/>
 conſiſt of two repreſentatives to be choſen for each county, and for the diſtrict of Weſt Auguſta, annuall, of ſuch men as actually re<g ref="char:EOLhyphen"/>ſid<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> in and are freeholders, or duly qualified according to law, and alſo one Delegate or Repreſentative to be choſen annually for the city of Williamſburg, and one for the borough of Norfolk, and a Repreſentative for each of ſuch other cities and boroughs as may hereafter be allowed particular repreſentation by the legiſlature; but when any city or borough ſhall ſo decreaſe as that the number of perſons having right of ſuffrage therein ſhall have been for the ſpace of ſeven years ſucceſſively, leſs than half the number of voters in ſome one county in Virginia, ſuch city or borough thenceforward ſhall ceaſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -567,7 +568,7 @@ conſiſt of two repreſentatives to be choſen for each county, and for the di�
                </gap> preſent, and each Houſe ſhall chooſe its own Speaker, appoint its own officers, ſettle its own rules of pro<g ref="char:EOLhyphen"/>ceeding, and direct writs of election for ſupplying intermediate vacancies.</p>
             <p>All laws ſhall originate in the Houſe of Delegates, to be approved or rejected in the Senate, or to be amended with the conſent of the Houſe of Delegates; except money bills, which in no inſtance ſhall be altered by the Senate, but wholly approved or rejected.</p>
             <p>A Governor or Chief Magiſtrate, ſhall be choſen annually, by joint ballot of both Houſes, to be taken in each Houſe reſpectively, depoſited in the conference room, the boxes examined jointly by a committee of each Houſe, and the numbers ſeverally reported to them, that the appointments may be entered (which ſhall be the mode of taxing the joint ballot of both Houſes in all caſes) who ſhall not continue in that office longer than three years ſucceſſively,
-<pb n="18" facs="tcp:019349_0018_0FAB45C4B16BDB00"/>
+<pb n="18" facs="unknown:019349_0018_0FAB45C4B16BDB00"/>
 no<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> be eligible until the expiration of four years after he ſhall have been out of that office. An adequate but moderate ſalary, ſhall be ſettled on him during his continuance in office; and he ſhall, with the advice of the Council of State, exerciſe the executive powers of government according to the laws of this commonwealth; and ſhall not, under any pretence, exerciſe any power or prerogative by virtue of any law, ſtatute, or cuſtom of England: But he ſhall, with the advice of the Council of State, have the power of granting reprieves or pardons, except where the proſecution ſhall have been carried on by the Houſe of Delegates, or the law ſhall otherwiſe particularly direct; in which caſes, no reprieve or pardon ſhall be granted, but by reſolve of the Houſe of Delegates.</p>
@@ -575,7 +576,7 @@ no<gap reason="illegible" resp="#PDCC" extent="1 letter">
             <p>A Privy Council, or Council of State, conſiſting of eight members, ſhall be choſen by joint ballot of both Houſes of Aſſembly, either from their own members or the people at large, to aſſiſt in the ad<g ref="char:EOLhyphen"/>miniſtration of government. They ſhall annually chooſe out of their own members, a Preſident, who, in caſe of the death, inability, or neceſſary abſence of the Governor from the government, ſhall act as Lieutenant Governor. Four members ſhall be ſufficient to act, and their advice and proceedings ſhall be entered of record, and ſigned by the members preſent (to any part whereof any member may enter his diſſent) to be laid before the General Aſſembly, when called for by them. This Council may appoint their own clerk, who ſhall have a ſalary ſettled by law, and take an oath of ſecrecy in ſuch matters as he ſhall be directed by the Board to conceal. A ſum of money appropriated to that purpoſe ſhall be divided annually among the members in proportion to their attendance; and they ſhall be incapable, during their continuance in office, of ſitting in either Houſe of Aſſembly. Two members ſhall be removed by joint ballot of both Houſes of Aſſembly at the end of every three years, and be in<g ref="char:EOLhyphen"/>eligible for the three next years. Theſe vacancies, as well as thoſe occaſioned by death or incapacity, ſhall be ſupplied by new elec<g ref="char:EOLhyphen"/>tions, in the ſame manner.</p>
             <p>The Delegates for Virginia to the Continental Congreſs ſhall be choſen annually, or ſuperſeded in the mean time by joint ballot of both Houſes of Aſſembly.</p>
             <p>The preſent militia officers ſhall be continued, and vacancies ſupplied by appointment of the Governor, with the advice of the Privy Council, or recommendations from the reſpective county courts; but the Governor and Council ſhall have a power of ſuſpend<g ref="char:EOLhyphen"/>ing any officer and ordering a court martial on complaint of miſbe<g ref="char:EOLhyphen"/>havior or inability, or to ſupply vacancies of officers happening in
-<pb n="19" facs="tcp:019349_0019_0FAB45C57243E3B0"/>
+<pb n="19" facs="unknown:019349_0019_0FAB45C57243E3B0"/>
 actual ſervice.</p>
             <p>The Governor may embody the militia, with the advice of the Privy Council; and, when embodied, ſhall alone have the direc<g ref="char:EOLhyphen"/>tion of the militia under the laws of the country.</p>
             <p>The two Houſes of Aſſembly ſhall, by joint ballot, appoint Judges of the Supreme Court of Appeals, and General Court, Judges in Chancery, Judges of Admiralty, Secretary, and the Attorney-General, to be commiſſioned by the Governor, and continue in office during good behavior, In caſe of death, inca<g ref="char:EOLhyphen"/>pacity, or reſignation, the Governor, with the advice of the Privy-Council, ſhall appoint perſons to ſucceed in office, to be approved or diſplaced by both Houſes. Theſe officers ſhall have fixed and adequate ſalaries, and, together with all others holding lucrative offices, and all miniſters of the Goſpel of every denomination, be incapable of being elected members of either Houſe of Aſſembly, or the Privy-Council.</p>
@@ -591,7 +592,7 @@ actual ſervice.</p>
                   <desc>〈◊〉</desc>
                </gap> Houſe of De<g ref="char:EOLhyphen"/>legates may, in like manner, impeach the Judge or Judges ſo ac<g ref="char:EOLhyphen"/>cuſed to be proſecuted in the Court of Appeals; and he or they, if found guilty, ſhall be puniſhed in the ſame manner as is preſcribed in the preceeding clauſe.</p>
             <p>
-               <pb n="20" facs="tcp:019349_0020_0FAB45C62EAAA3D8"/>Commiſſions and grants ſhall run, <hi>In the name of the</hi> COMMON<g ref="char:EOLhyphen"/>WEALTH <hi>of</hi> VIRGINIA, and bear teſt by the Governor with the ſeal of the Commonwealth annexed. Writs ſhall run in the ſame manner, and bear teſt by the clerks of the ſeveral courts. Indict<g ref="char:EOLhyphen"/>ments ſhall conclude, <hi>Againſt the peace and dignity of the Common<g ref="char:EOLhyphen"/>wealth.</hi>
+               <pb n="20" facs="unknown:019349_0020_0FAB45C62EAAA3D8"/>Commiſſions and grants ſhall run, <hi>In the name of the</hi> COMMON<g ref="char:EOLhyphen"/>WEALTH <hi>of</hi> VIRGINIA, and bear teſt by the Governor with the ſeal of the Commonwealth annexed. Writs ſhall run in the ſame manner, and bear teſt by the clerks of the ſeveral courts. Indict<g ref="char:EOLhyphen"/>ments ſhall conclude, <hi>Againſt the peace and dignity of the Common<g ref="char:EOLhyphen"/>wealth.</hi>
             </p>
             <p>A Treaſurer ſhall be appointed annually, by joint ballot of both Houſes.</p>
             <p>All eſcheats, penalties, and forfeitures, heretofore going to the King, ſhall go to the commonwealth, ſave only ſuch as the Legi<g ref="char:EOLhyphen"/>ſlature may aboliſh, or otherwiſe provide for.</p>
@@ -603,14 +604,14 @@ actual ſervice.</p>
             <p>In order to introduce this government, the Repreſentatives of the people met in Convention ſhall chooſe a Governor and Privy Council, alſo ſuch other officers directed to be choſen by both Houſes as may be judged neceſſary to be immediately appointed. The Senate to be firſt choſen by the people, to continue until the laſt day of March next, and the other until the end of the ſucceed<g ref="char:EOLhyphen"/>ng ſeſſion of Aſſembly In caſe of vacancies, the Speaker of either Houſe ſhall iſſue writs for new elections.</p>
          </div>
          <div type="treaty">
-            <pb n="21" facs="tcp:019349_0021_0FAB45C6F2165F58"/>
+            <pb n="21" facs="unknown:019349_0021_0FAB45C6F2165F58"/>
             <head>THE ARTICLES OF THE DEFINITIVE TREATY. <hi>In the Name of the Moſt Holy and Undivided</hi> TRINITY.</head>
             <p>IT having pleaſed the Divine Providence to diſpoſe the hearts of the moſt ſerene and moſt potent Prince George the third, by the Grace of God, King of Great-Britain, France and Ireland, De<g ref="char:EOLhyphen"/>fender of the Faith, Duke of Brunſwick and Lunenburg, Arch-Treaſurer and Prince Elector of the Holy Roman Empire, &amp;c and of the United States of America, to forget all paſt miſunderſtand<g ref="char:EOLhyphen"/>ings and differences, that have unhappily interrupted the good cor<g ref="char:EOLhyphen"/>reſpondence and friendſhip which they mutually wiſh to reſtore; and to eſtabliſh ſuch a beneficial and ſatisfactory intercourſe between the two countries, upon the ground of reciprocal advantages and mutual convenience, as may promote and ſecure to both perpetual peace and harmony: And having for this deſirable end, already la<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>d <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>he foundation of peace and reconciliation, by the proviſional articles, ſigned at Paris, on the 30th of November, 1782, by the commiſſioners empowered on each part, which articles were agreed to be inſerted in, and to conſtitute the treaty of peace propoſed to be concluded between the crown of Great-Britain and the ſaid United States, but which treaty was not to be concluded until terms of peace ſhould be agreed upon between Great-Britain and France, and his Britannic Majeſty ſhould be ready to conclude ſuch treaty accordingly; and the treaty between Great-Britain and France, having been ſince concluded, his Britannic Majeſty and the United States of America, in order to carry into full effect the proviſional articles above-mentioned, according to the tenor thereof, have conſtituted and appointed, that is to ſay, His Britannic Majeſty on his part, David Hartley, Eſquire, member of the Par<g ref="char:EOLhyphen"/>liament of Great-Britain, and the ſaid United States on their part, John Adams, Eſquire, late a commiſſioner of the United States of America at the court of Verſailles, late Delegate in Congreſs from the ſtate of Maſſachuſetts, and Chief Juſtice of the ſaid ſtate, and
-<pb n="22" facs="tcp:019349_0022_0FAB45C7B12A97F8"/>
+<pb n="22" facs="unknown:019349_0022_0FAB45C7B12A97F8"/>
 Miniſter Plenipotentiary of the ſaid United States, to their High Mightineſſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> the States General of the United Netherlands; Benja<g ref="char:EOLhyphen"/>min Franklin, Eſquire, late Delegate in Congreſs from the <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -635,7 +636,7 @@ Miniſter Plenipotentiary of the ſaid United States, to their High Mightineſſ
                </gap>ſt north weſtern point thereof, and from thence on a due weſt courſe to the river Miſſiſippi; thence by a line to be drawn along the middle of the ſaid river Miſſiſippi, <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="23" facs="tcp:019349_0023_0FAB45C993894820"/>
+               <pb n="23" facs="unknown:019349_0023_0FAB45C993894820"/>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> interſect the northernmoſt part of the thirty-firſt degree of north latitude. South by a line to be drawn due eaſt from the de<g ref="char:EOLhyphen"/>termination of the line laſt mentioned, in the latitude of thirty-one degrees north of the equator, to the middle of the river Apalachicola or Catahouche; thence along the middle thereof to its junction with the Flint river; thence ſtrait to the head of Saint Mary's river; and thence down along the middle of Saint Mary's river to the Atlantic Ocean. Eaſt by a line to be drawn along the middle of the river Saint Croix, from its mouth in the bay of Fundy to its ſource, and from its ſource directly north to the aforeſaid High<g ref="char:EOLhyphen"/>lands which divide the rivers that fall into the Atlantic Ocean from thoſe which fall into the river Saint Lawrence; comprehending all iſlands within twenty leagues of any part of the ſhores of the United States, and lying between lines to be drawn due eaſt from the points where the aforeſaid boundaries between Nova-Scotia on the one part, and Eaſt-Florida on the other, ſhall reſpectively touch the bay of Fundy, and the Atlantic Ocean; excepting ſuch iſlands as now are or heretofore have been within the limits of the ſaid pro<g ref="char:EOLhyphen"/>vince of Nova-Scotia.</p>
@@ -646,7 +647,7 @@ Miniſter Plenipotentiary of the ſaid United States, to their High Mightineſſ
             <p>ART. V. It is agreed that the Congreſs ſhall earneſtly recom<g ref="char:EOLhyphen"/>mend it to the legiſlatures of the reſpective ſtates, to provide for the reſtitution of all eſtates, rights and properties, which have been confiſcated, belonging to real Britiſh ſubjects, and alſo o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> the eſtates, rights and properties of perſons reſident in diſtricts in the poſſeſſion of his Majeſty's arms, and who have not borne arms againſt the ſaid United States. And that perſons of any other de<g ref="char:EOLhyphen"/>ſcription ſhall have free liberty to go to any part or parts of any of the Thirteen United States, and therein to remain twelve months
-<pb n="24" facs="tcp:019349_0024_0FAB45CA335A3D80"/>
+<pb n="24" facs="unknown:019349_0024_0FAB45CA335A3D80"/>
 unmoleſted in their endeavors to obtain the reſtitution of <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> their eſtates, rights and properties, as may have been confiſcated; and that Congreſs ſhall alſo earneſtly recommend to the ſeveral ſtates a reconſideration and reviſion of all acts or laws regarding the premiſes, ſo as to render the ſaid laws or acts perfectly conſiſtent, not only with juſtice and equity, but with that ſpirit of conciliation which on the return of the bleſſings of peace ſhould univerſally prevail. And that Congreſs ſhall alſo earneſtly recommend to the ſeveral ſtates, that the eſtates, rights and properties, of ſuch laſt mentioned perſons ſhall be reſtored to them; they refunding to any perſons who may be now in poſſeſſion the bona fide price (where any has been given) which ſuch perſons may have paid on pur<g ref="char:EOLhyphen"/>chaſing any of the ſaid lands, rights or properties ſince the confiſ<g ref="char:EOLhyphen"/>cation. And it is agreed that all perſons who have any intereſt in confiſcated lands, either by debts, marriage ſettlements, or other<g ref="char:EOLhyphen"/>wiſe, ſhall meet with no lawful impediment in the proſecution of their juſt rights.</p>
@@ -654,7 +655,7 @@ unmoleſted in their endeavors to obtain the reſtitution of <gap reason="illegi
             <p>ART. VII. There ſhall be a firm and perpetual peace between his Britannic Majeſty and the ſaid States, and between the ſubjects of the one, and the citizens of the other, wherefore all hoſtilities both by ſea and land ſhall from henceforth ceaſe; all priſoners on both ſides ſhall be ſet at liberty, and his Britannic Majeſty ſhall with all convenient ſpeed, and without cauſing any deſtruction, or carrying away any negroes or other property of the American in<g ref="char:EOLhyphen"/>habitants, withdraw all his armies, garriſons and fleets from the ſaid United States, and from every poſt, place and harbor within the ſame; leaving in all fortifications the American artillery that may be therein, and ſhall alſo order and cauſe all archives, records, deeds and papers, belonging to any of the ſtates, or their citizens, which in the courſe of the war may have fallen into the hands of his officers, ſhall be forthwith reſtored and delivered to the proper ſtates and perſons to whom they belong.</p>
             <p>ART. VIII. The navigation of the river Miſſiſippi, from its ſource to the Ocean, ſhall forever remain free and open to the ſub<g ref="char:EOLhyphen"/>jects of Great-Britain and the citizens of the United States</p>
             <p>ART. IX. In caſe it ſhould ſo happen that any place or terri<g ref="char:EOLhyphen"/>tory belonging to Great-Britain or to the United States, ſhould have been conquered by the arms of either from the other, before the arrival of the ſaid proviſional articles in America, it is agreed, that
-<pb n="25" facs="tcp:019349_0025_0FAB45CAB1870BF0"/>
+<pb n="25" facs="unknown:019349_0025_0FAB45CAB1870BF0"/>
 the ſame ſhall be reſtored without difficulty, and without re<g ref="char:EOLhyphen"/>quiring any compenſation.</p>
             <p>ART X. The ſolemn ratifications of the preſent treaty, ex<g ref="char:EOLhyphen"/>pedite <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
